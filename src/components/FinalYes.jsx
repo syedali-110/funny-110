@@ -13,6 +13,15 @@ export default function FinalYes() {
       <h1 className="text-2xl font-semibold">
         I knew it! You Love me a lot 😘
       </h1>
+      <p>
+        Malmal, resham, khaddar acha lgta hai,
+        <br />
+        Kuch bhi pehno tum pr sb acha lgta hai,
+        <br />
+        Mujh ko yuhi acchi lgti rehna tum,
+        <br />
+        Acha lgna tum pr accha lgta hai....... ❤️
+      </p>
     </div>
   );
 }
